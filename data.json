@@ -1,0 +1,32 @@
+{
+  "basics":{
+    "content":"
+To pursue a challenging career
+ and be a part of progressive organization
+  that gives a scope to enhance my knowledge
+   and utilizing my skills towards
+   the growth of the organization."
+  }
+}
+{
+  "co":"thi is my strength",
+  "data":{
+    "details":"12345"
+  },
+  "education":[{
+    "name":"Btech",
+    "Inst":"I completed my undergraduation in ALIET,
+    vijayawda with 80%",
+  },
+  {
+    "name":"Intermediate",
+    "Inst":"I completed my Intermediate in Narayana,
+    vijayawda with 90%",
+  },
+  {
+    "name":"SSC",
+    "Inst":"I completed my schooling in Narayana,
+    vijayawda with 92%",
+  }
+
+    }]
