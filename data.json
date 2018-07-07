@@ -1,32 +1,35 @@
 {
   "basics":{
-    "content":"
-To pursue a challenging career
- and be a part of progressive organization
-  that gives a scope to enhance my knowledge
-   and utilizing my skills towards
-   the growth of the organization."
-  }
-}
-{
-  "co":"thi is my strength",
+    "content":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+ },
+
   "data":{
     "details":"12345"
   },
-  "education":[{
+  "educationQual":[{
     "name":"Btech",
-    "Inst":"I completed my undergraduation in ALIET,
-    vijayawda with 80%",
+    "Inst":"I completed my undergraduation in ALIET, vijayawda with 80%"
   },
   {
     "name":"Intermediate",
-    "Inst":"I completed my Intermediate in Narayana,
-    vijayawda with 90%",
+    "Inst":"I completed my Intermediate in Narayana, vijayawda with 90%"
   },
   {
     "name":"SSC",
-    "Inst":"I completed my schooling in Narayana,
-    vijayawda with 92%",
+    "Inst":"I completed my schooling in Narayana, vijayawda with 92%"
   }
 
-    }]
+],
+"tech":[{
+  "name":"Operating Systems :",
+  "value":"Windows, Linux, ect..."
+},
+{
+  "name":"Languages:",
+  "value":"HTML5,CSS3,JavaScript,Angular JS"
+}
+],
+ "achievements":{
+   "details":"I won 1st prize in my schooling,I got 2nd prize in kho-kho in my 10th,I got 3rd prize on statistics day in my Intermediate "
+}
+}
